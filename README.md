@@ -1,7 +1,5 @@
 # Hi there, I'm Anirudh Sengar! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=anirudhsengar&color=blue)
-
 ## 🚀 About Me
 I am a **Computer Science student specializing in Artificial Intelligence** with a passion for **artificial intelligence, machine learning, and web development**. I love solving real-world problems through technology and continuously learning about emerging trends in AI and software development.
 
@@ -46,8 +44,6 @@ I am a **Computer Science student specializing in Artificial Intelligence** with
 
 ## 📬 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anirudh-sengar-21b9a722a/)  
-[![Email](https://img.shields.io/badge/Email-anirudhsengar3%40gmail.com-red?logo=gmail)](mailto:anirudhsengar3@gmail.com)  
-[![GitHub](https://img.shields.io/github/followers/anirudhsengar?style=social)](https://github.com/anirudhsengar)
 
 ---
 
