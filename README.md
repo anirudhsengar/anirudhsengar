@@ -49,7 +49,7 @@ AI Engineer specializing in building and deploying machine learning systems at s
 
 <div align="center">
   
-![](https://raw.githubusercontent.com/anirudhsengar/anirudhsengar/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/anirudhsengar/anirudhsengar/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
