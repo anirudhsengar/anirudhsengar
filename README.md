@@ -26,14 +26,6 @@ AI Engineer specializing in building and deploying machine learning systems at s
 
 </div>
 
-## GitHub Contributions
-
-<div align="center">
-  
-![](https://raw.githubusercontent.com/anirudhsengar/anirudhsengar/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
 ## Education & Certifications
 
 **B.Tech in Computer Science & Engineering**
