@@ -8,13 +8,9 @@
 
 </div>
 
----
-
 ## About Me
 
 I am an AI and Machine Learning professional focused on designing scalable, production-grade systems. My expertise lies in orchestrating multi-agent architectures, optimizing retrieval-augmented generation (RAG) pipelines, and implementing interpretable deep learning models. I specialize in bridging the gap between theoretical research and operational software, delivering robust solutions for complex technical challenges.
-
----
 
 ## Selected Projects
 
@@ -80,8 +76,6 @@ I am an AI and Machine Learning professional focused on designing scalable, prod
     *   Implements Multiple Linear Regression trained on the PIMA Indian dataset.
     *   Features a dual-mode interface for both manual data entry and automated PDF medical report parsing.
 
----
-
 ## Technical Proficiency
 
 **Languages**
@@ -92,8 +86,6 @@ I am an AI and Machine Learning professional focused on designing scalable, prod
 
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
 
 <div align="center">
     <p><i>Building intelligence into architecture.</i></p>
